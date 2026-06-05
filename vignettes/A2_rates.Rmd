@@ -84,7 +84,7 @@ National Cancer Institute (NCI).  Data are collected at 17 regional centers.
 The SEER web site, offers various facets of cancer data to investigate.
 
 
-![SEERlist](images/SEERlist.jpg)
+![SEERlist](images/A2SEERlist.png)
 
 ## Body sites with relatively high cancer incidence
 

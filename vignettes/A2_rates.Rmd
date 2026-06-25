@@ -15,10 +15,6 @@ output:
     toc: yes
 ---
 
-```{r setup,echo=FALSE,results="hide"}
-suppressMessages({
-```
-
 
 ```{r setup,echo=FALSE,results="hide"}
 suppressPackageStartupMessages({

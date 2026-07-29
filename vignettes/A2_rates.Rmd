@@ -22,7 +22,6 @@ suppressPackageStartupMessages({
   library(DT)
   data(vjc_cancer_net)
   })
- })
 ```
 
 # Cancer rates and public health
